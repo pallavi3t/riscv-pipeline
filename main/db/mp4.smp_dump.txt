@@ -1,0 +1,10 @@
+
+State Machine - |mp4|datapath:datapath|MEM:mem_stage|cache:dcache|cache_control:control|state
+Name state.read_mem 
+state.check_hit 0 
+state.read_mem 1 
+
+State Machine - |mp4|datapath:datapath|IF:if_stage|cache:icache|cache_control:control|state
+Name state.read_mem 
+state.check_hit 0 
+state.read_mem 1 
